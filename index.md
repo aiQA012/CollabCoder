@@ -26,7 +26,7 @@ Your task is to code the sentences so that we may obtain a meaningful analysis o
 
 ## 2) Try the App!
 
-Here you can try traditional [etherpad](https://rich.etherpad.com/). For the control experiment group, we will use this app to do qualitative analysis. In our experimental group, we will use an AI assisted tool to provide suggestions for your coding process!
+Here you can try traditional [etherpad](https://rich.etherpad.com/). For the control experiment group, we will use this app to do qualitative analysis. In our experiment group, we will use an AI assisted tool to provide suggestions for your coding process! You will be assigned to experiment group or control group randomly.
 
 ## 3) Study Instruction
 
