@@ -41,8 +41,8 @@ Here you can try traditional [etherpad](https://rich.etherpad.com/). For the con
 
 3. Mark up the remaining two documents (~20 minutes).
 4. Answer the following questions (~10 minutes):
-   - Do you think the final result achieved the original purpose (summarize the good parts of interviewees)?
-   - During the labeling process, what are the difficulties when you label individually? What is the most difficult part in the cooperation between each other?
+   - Do you think the final result achieved the original purpose (summarize the good qualities of interviewees)?
+   - During the labeling process, what are the difficulties when you label individually? What is the most difficult part in the collaboration between each other?
 
 # 4. Join now!
 You will get S$10 per hour for the experiment (around 1.5 hours)! The only requirement is that you should be a native English speaker. If you are willing to join the experiment, just click [here](https://docs.google.com/forms/d/e/1FAIpQLSejhnd17AzvUR8jK-P-lDZAtLihYj_vWbGpeZez52gz2Ew2GQ/viewform?usp=sf_link) to tell us! Any further questions, just contact aiqa012@yahoo.com.
