@@ -1,6 +1,6 @@
 # 1. Welcome to Join Our AIQA Experiment!
 
-Qualitative analysis (QA) is widely used in human computer interaction and social computing research areas. Coding is one of the important processes in QA to form and find patterns and insights in the qualitative data. It heavily depends on human labor, which is very low-efficient and time-consuming. In the past few years, researchers have proposed to use AI (Artificial Intelligence) improve the efficiency of this process. However, the collaboration part in coding process hasn’t been a focus by them. Our project aims at improving the efficiency of coding process by providing AI based collaboration tool. By using AI to assist the collaboration process between different coders in coding process, the efficiency of coding process could be improved. This could save much time for QA researchers.
+Qualitative analysis (QA) is widely used in human computer interaction and social computing research areas. Coding is one of the important processes in QA to form and find patterns and insights in the qualitative data. It heavily depends on human labor, which is very low-efficient and time-consuming. In the past few years, researchers have proposed to use AI (Artificial Intelligence) to improve the efficiency of this process. However, the collaboration part in coding process hasn’t been a focus by them. Our project aims at improving the efficiency of coding process by providing AI based collaboration tool. By using AI to assist the collaboration process between different coders in coding process, the efficiency of coding process could be improved. This may save much time for QA researchers.
 
 # 2. A Five-minute Introduction to Qualitative Analysis
 
@@ -39,7 +39,7 @@ Here you can try traditional [etherpad](https://rich.etherpad.com/). For the con
 
 **Coding using the Codebook**
 
-3. Mark up the remaining two documents (~20 minutes).
+3. Mark up the remaining one document (~20 minutes).
 4. Answer the following questions (~10 minutes):
    - Do you think the final result achieved the original purpose (summarize the good qualities of interviewees)?
    - During the labeling process, what are the difficulties when you label individually? What is the most difficult part in the collaboration between each other?
