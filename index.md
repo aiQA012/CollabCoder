@@ -1,17 +1,18 @@
-## Welcome to join our AIQA experiment!
+# Welcome to join our AIQA experiment!
 
 Qualitative analysis (QA) is widely used in human computer interaction and social computing research areas. Coding is one of the important processes in QA to form and find patterns and insights in the qualitative data. It heavily depends on human labor, which is very low-efficient and time-consuming. In the past few years, researchers have proposed to use AI (Artificial Intelligence) improve the efficiency of this process. However, the collaboration part in coding process hasn’t been a focus by them. Our project aims at improving the efficiency of coding process by providing AI based collaboration tool. By using AI to assist the collaboration process between different coders in coding process, the efficiency of coding process could be improved. This could save much time for QA researchers.
 
-## An Introduction to Qualitative Analysis
+# A five-minute Introduction to Qualitative Analysis
 
 Please watch the following video to get an understanding of how to do qualitative analysis (sometimes it is also called qualitative coding, but they are not exactly the same).
 
 <div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/651816055?h=704550dd3e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Tutorial"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+-------------
 
-## Experiment Process
+# Experiment Process
 
-### Task introduction
+## Task introduction
 
 You are a pair of researchers who are trying to perform qualitative analysis on interview transcripts of students undergoing a preparatory mock interview. The research question is to find good qualities of candidates. 
 
