@@ -1,8 +1,8 @@
-# 1. Welcome to join our AIQA experiment!
+# 1. Welcome to Join Our AIQA Experiment!
 
 Qualitative analysis (QA) is widely used in human computer interaction and social computing research areas. Coding is one of the important processes in QA to form and find patterns and insights in the qualitative data. It heavily depends on human labor, which is very low-efficient and time-consuming. In the past few years, researchers have proposed to use AI (Artificial Intelligence) improve the efficiency of this process. However, the collaboration part in coding process hasn’t been a focus by them. Our project aims at improving the efficiency of coding process by providing AI based collaboration tool. By using AI to assist the collaboration process between different coders in coding process, the efficiency of coding process could be improved. This could save much time for QA researchers.
 
-# 2. A five-minute Introduction to Qualitative Analysis
+# 2. A Five-minute Introduction to Qualitative Analysis
 
 Please watch the following video to get an understanding of how to do qualitative analysis (sometimes it is also called qualitative coding, but they are not exactly the same).
 
@@ -12,7 +12,7 @@ Please watch the following video to get an understanding of how to do qualitativ
 
 # 3. Experiment Process
 
-## 1) Task introduction
+## 1) Task Introduction
 
 You are a pair of researchers who are trying to perform qualitative analysis on interview transcripts of students undergoing a preparatory mock interview. The research question is to find good qualities of candidates. 
 
@@ -45,4 +45,4 @@ Here you can try traditional [etherpad](https://rich.etherpad.com/). For the con
    - During the labeling process, what are the difficulties when you label individually? What is the most difficult part in the cooperation between each other?
 
 # 4. Join now!
-You will get $15 dollars for the whole 1.5 hours experiment! The only requirement is that you should be a native English speaker. If you are willing to join the experiment, just click [here](https://docs.google.com/forms/d/e/1FAIpQLSejhnd17AzvUR8jK-P-lDZAtLihYj_vWbGpeZez52gz2Ew2GQ/viewform?usp=sf_link) to tell us! Any further questions, just contact aiqa012@yahoo.com.
+You will get S$10 per hour for the experiment (around 1.5 hours)! The only requirement is that you should be a native English speaker. If you are willing to join the experiment, just click [here](https://docs.google.com/forms/d/e/1FAIpQLSejhnd17AzvUR8jK-P-lDZAtLihYj_vWbGpeZez52gz2Ew2GQ/viewform?usp=sf_link) to tell us! Any further questions, just contact aiqa012@yahoo.com.
