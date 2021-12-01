@@ -22,7 +22,7 @@ Your task is to code the sentences so that we may obtain a meaningful analysis o
 
 - A reasonable way to **code** this sentence could be Action Items.
 - A succinct **subcode** or **description** could be "A person was asked to follow up on a task".
-- This sentence would then be added as one of the examples of such an Action Items code.
+- This sentence would then be added as one of the **examples** of such an Action Items code.
 
 ## 2) Try the App!
 
