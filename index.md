@@ -12,7 +12,7 @@ Please watch the following video to get an understanding of how to do qualitativ
 
 # 3. Experiment Process
 
-## Task introduction
+## 1) Task introduction
 
 You are a pair of researchers who are trying to perform qualitative analysis on interview transcripts of students undergoing a preparatory mock interview. The research question is to find good qualities of candidates. 
 
@@ -24,11 +24,11 @@ Your task is to code the sentences so that we may obtain a meaningful analysis o
 - A succinct **subcode** or **description** could be "A person was asked to follow up on a task".
 - This sentence would then be added as one of the examples of such an Action Items code.
 
-## Try the App!
+## 2) Try the App!
 
 Here you can try traditional [etherpad](https://rich.etherpad.com/). For the control experiment group, we will use this app to do qualitative analysis. In our experimental group, we will use an AI assisted tool to provide suggestions for your coding process!
 
-## Study Instruction
+## 3) Study Instruction
 
 **Creating the Codebook**
 
