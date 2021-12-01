@@ -45,4 +45,4 @@ Here you can try traditional [etherpad](https://rich.etherpad.com/). For the con
    - During the labeling process, what are the difficulties when you label individually? What is the most difficult part in the collaboration between each other?
 
 # 4. Join now!
-You will get S$10 per hour for the experiment (around 1.5 hours)! The only requirement is that you should be a native English speaker. If you are willing to join the experiment, just click [here](https://docs.google.com/forms/d/e/1FAIpQLSejhnd17AzvUR8jK-P-lDZAtLihYj_vWbGpeZez52gz2Ew2GQ/viewform?usp=sf_link) to tell us! Any further questions, just contact aiqa012@yahoo.com.
+You will get S$10 per hour for the experiment (around 1.5 hours)! The only requirement is that you should be a native English speaker. If you are willing to join the experiment, just click **[here](https://docs.google.com/forms/d/e/1FAIpQLSejhnd17AzvUR8jK-P-lDZAtLihYj_vWbGpeZez52gz2Ew2GQ/viewform?usp=sf_link)** to tell us! Any further questions, just contact aiqa012@yahoo.com.
