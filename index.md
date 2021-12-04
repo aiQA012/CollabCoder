@@ -14,7 +14,7 @@ Please watch the following video to get an understanding of how to do qualitativ
 
 ## 1) Task Introduction
 
-You are a pair of researchers who are trying to perform qualitative analysis on interview transcripts of students undergoing a preparatory mock interview. The research question is to find good qualities of candidates. 
+You are a pair of researchers who are trying to perform qualitative analysis on interview transcripts of students undergoing a preparatory mock interview. The research question is to find general qualities of candidates (include good and bad ones). 
 
 Your task is to code the sentences so that we may obtain a meaningful analysis of the transcripts. Here's an example. If we were to analyse meeting transcripts, a likely thing to be said during a meeting might be:
 
