@@ -40,7 +40,7 @@ Here you can try traditional [etherpad](https://rich.etherpad.com/). For the con
 **Coding using the Codebook**
 
 3. Mark up the remaining one document (~10-20 minutes).
-4. Fill up one [survey](https://docs.google.com/forms/d/1E5ng5UotxJM_UkwdRDILn7qNA8xvFCCUnl_8dpaiVPk/edit) (~5 minutes).
+4. Fill up the [survey](https://docs.google.com/forms/d/1E5ng5UotxJM_UkwdRDILn7qNA8xvFCCUnl_8dpaiVPk/edit) (~5 minutes).
 5. Answer the following questions (~5 minutes):
    - Do you think the final result achieved the original purpose (summarize the good qualities of interviewees)?
    - During the labeling process, what are the difficulties when you label individually? What is the most difficult part in the collaboration between each other?
