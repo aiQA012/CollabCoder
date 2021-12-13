@@ -28,6 +28,8 @@ Your task is to code the sentences so that we may obtain a meaningful analysis o
 
 Here you can try traditional [etherpad](https://rich.etherpad.com/). For the control experiment group, we will use this app to do qualitative analysis. In our experiment group, we will use an AI assisted tool to provide suggestions for your coding process! You will be assigned to experiment group or control group randomly.
 
+For experiment group, AIcoder will be displayed to you during the experiment due to SUTD VPN restriction. AIcoder is a tool that enables you and your partner do coding using the same model. The model will provide suggestions based on your and your partner's codes in a real-time. 
+
 ## 3) Study Instruction
 
 **Creating the Codebook**
