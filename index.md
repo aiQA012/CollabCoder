@@ -33,7 +33,7 @@ Here you can try traditional [etherpad](https://rich.etherpad.com/). For the con
 **Creating the Codebook**
 
 1. Mark up the first two interview records individually. (~20 mins).
-2. Discuss the points you have found, and create a codebook like the following (~30-40 mins):
+2. Discuss the points you have found, and create one codebook (combining all the codes/subcodes from two materials) like the following (~30-40 mins):
 ![image](https://user-images.githubusercontent.com/95164001/144158823-2217a1a1-e058-4f62-8d1d-ba5bcafd947e.png)
 
 
