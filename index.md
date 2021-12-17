@@ -53,6 +53,8 @@ For experiment group, AIcoder will be displayed to you during the experiment due
    - How do you feel like the confidence level?
    - During the labeling process, what are the difficulties when you label individually? 
    - Do you feel that AIcoder helps you improve your coding efficiency and collaboration efficiency?
+   - Why do you use the AIcoder (drop down lists frequently/less frequently) ?
+   - Why do you feel it becomes faster after codebook forming?
 
 # 4. Join now!
 You will get S$10 per hour for the experiment (around 1.5 hours)! The only requirement is that you should be a native English speaker. If you are willing to join the experiment, just click **[here](https://docs.google.com/forms/d/e/1FAIpQLSejhnd17AzvUR8jK-P-lDZAtLihYj_vWbGpeZez52gz2Ew2GQ/viewform?usp=sf_link)** to tell us! Any further questions, just contact aiqa012@yahoo.com.
