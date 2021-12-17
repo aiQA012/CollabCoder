@@ -29,19 +29,23 @@ Your task is to code the sentences so that we may obtain a meaningful analysis o
 Here you can try traditional [etherpad](https://rich.etherpad.com/). For the control experiment group, we will use this app to do qualitative analysis. In our experiment group, we will use an AI assisted tool to provide suggestions for your coding process! You will be assigned to experiment group or control group randomly.
 
 For experiment group, AIcoder will be displayed to you during the experiment due to SUTD VPN restriction. AIcoder is a tool that enables you and your partner do coding using the same AI model. In the coding process, AIcoder powered by AI models will provide suggestions in a real-time based on your and your partner's codes history. 
+- add code
+- edit code
+- delete code
+- confidence level
 
 ## 3) Study Instruction
 
 **Creating the Codebook**
 
-1. Mark up the first two interview records individually. (~20 mins).
-2. Discuss the points you have found, and create one codebook (combining all the codes/subcodes from two materials) like the following (~30-40 mins):
+1. Mark up the first two interview transcripts individually. (~20 mins).
+2. Discuss the codes you have found, and create one codebook (combining all the codes/subcodes from two materials) like the following (~30-40 mins):
 ![image](https://user-images.githubusercontent.com/95164001/144158823-2217a1a1-e058-4f62-8d1d-ba5bcafd947e.png)
 
 
 **Coding using the Codebook**
 
-3. Mark up the remaining one document (~10-20 minutes).
+3. Mark up the remaining one material (~10-20 minutes).
 4. Fill up the [survey](https://docs.google.com/forms/d/1E5ng5UotxJM_UkwdRDILn7qNA8xvFCCUnl_8dpaiVPk/edit) (~5 minutes).
 5. Answer the following questions (~5 minutes):
    - What is the most difficult part in the collaboration between each other? How do you think AIcoder deal with the conflicts between each other?
