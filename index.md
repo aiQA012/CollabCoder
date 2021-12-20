@@ -68,7 +68,7 @@ For experiment group, AIcoder will be displayed to you during the experiment due
 **Coding using the Codebook**
 
 3. Mark up the remaining one material individually (~10 minutes).
-4. Fill up the [survey](https://docs.google.com/forms/d/1E5ng5UotxJM_UkwdRDILn7qNA8xvFCCUnl_8dpaiVPk/edit) (~5 minutes).
+4. Fill up the [survey](https://docs.google.com/forms/d/e/1FAIpQLSe3nieWo47E6mrpkOF5X4HjWdoCXfYuois365srhVPcJJXQ-w/viewform?usp=sf_link) (~5 minutes).
 5. Answer the following questions (~5 minutes):
    - During the labeling process, what are the difficulties when you label individually? 
    - What are the difficulties when collaborating with each other?
