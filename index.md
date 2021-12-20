@@ -20,9 +20,9 @@ Your task is to code the sentences so that we may obtain a meaningful analysis o
 
 > "Ok, can Alice please follow up with Bob on the designs".
 
-- A reasonable way to **code** this sentence could be Action Items.
+- A reasonable way to **code** this sentence could be *Action Items*.
 - A succinct **subcode** or **description** could be "A person was asked to follow up on a task".
-- This sentence would then be added as one of the **examples** of such an Action Items code.
+- This sentence would then be added as one of the **examples** of *Action Items* code.
 
 ## 2) Try the App!
 
@@ -36,25 +36,49 @@ For experiment group, AIcoder will be displayed to you during the experiment due
 
 ## 3) Study Instruction
 
+### ExB:
 **Creating the Codebook**
 
-1. Mark up the first two interview transcripts individually. (~20 mins).
-2. Discuss the codes you have found, and create one codebook (combining all the codes/subcodes from two materials) like the following (~30-40 mins):
+1. Mark up the first two interview transcripts individually. (~10-20 mins).
+2. Discuss the codes you have found, and create one codebook (combining all the codes/subcodes from two materials) like the following (~30 mins):
 ![image](https://user-images.githubusercontent.com/95164001/144158823-2217a1a1-e058-4f62-8d1d-ba5bcafd947e.png)
 
 
 **Coding using the Codebook**
 
-3. Mark up the remaining one material (~10-20 minutes).
-4. Fill up the [survey](https://docs.google.com/forms/d/1E5ng5UotxJM_UkwdRDILn7qNA8xvFCCUnl_8dpaiVPk/edit) (~5 minutes).
+3. Mark up the remaining one material individually (~10 minutes).
+4. Fill up the [survey](https://docs.google.com/forms/d/1E5ng5UotxJM_UkwdRDILn7qNA8xvFCCUnl_8dpaiVPk/edit) (~3 minutes).
 5. Answer the following questions (~5 minutes):
-   - What is the most difficult part in the collaboration between each other? How do you think AIcoder deal with the conflicts between each other?
+   - During the labeling process, what are the difficulties when you label individually? 
+   - What are the difficulties when collaborating with each other?
+   - How do you think AIcoder deal with these difficulties between each other?
    - How do you feel when there is a code in the code list that you didn't add?
    - How do you feel like the confidence level?
-   - During the labeling process, what are the difficulties when you label individually? 
+   - Did AI help you deal with the conflicts between each other?
+   - Do you use the AIcoder frequently? Why?
    - Do you feel that AIcoder helps you improve your coding efficiency and collaboration efficiency?
-   - Why do you use the AIcoder (drop down lists frequently/less frequently) ?
-   - Why do you feel it becomes faster after codebook forming?
+   - Do you feel it becomes faster after codebook forming, how?
+
+### ExC:
+1. The first coder marks up the first two interview transcripts individually (with ai model training), another coder can take a rest. (~10-15 mins).
+2. The second coder marks up the two interview transcripts individually (with the same ai model training), another coder can take a rest. (~10-15 mins).
+3. Discuss the codes you have found, and create one codebook (combining all the codes/subcodes from two materials) like the following (~30-40 mins):
+![image](https://user-images.githubusercontent.com/95164001/144158823-2217a1a1-e058-4f62-8d1d-ba5bcafd947e.png)
+
+**Coding using the Codebook**
+
+3. Mark up the remaining one material individually (~10 minutes).
+4. Fill up the [survey](https://docs.google.com/forms/d/1E5ng5UotxJM_UkwdRDILn7qNA8xvFCCUnl_8dpaiVPk/edit) (~5 minutes).
+5. Answer the following questions (~5 minutes):
+   - During the labeling process, what are the difficulties when you label individually? 
+   - What are the difficulties when collaborating with each other?
+   - How do you think AIcoder deal with these difficulties between each other?
+   - How do you feel when there is a code in the code list that you didn't add?
+   - How do you feel like the confidence level?
+   - Did AI help you deal with the conflicts between each other?
+   - Do you use the AIcoder frequently? Why?
+   - Do you feel that AIcoder helps you improve your coding efficiency and collaboration efficiency?
+   - Do you feel it becomes faster after codebook forming, how?
 
 # 4. Join now!
-You will get S$10 per hour for the experiment (around 1.5 hours)! The only requirement is that you should be a native English speaker. If you are willing to join the experiment, just click **[here](https://docs.google.com/forms/d/e/1FAIpQLSejhnd17AzvUR8jK-P-lDZAtLihYj_vWbGpeZez52gz2Ew2GQ/viewform?usp=sf_link)** to tell us! Any further questions, just contact aiqa012@yahoo.com.
+You will get SGD$10 via payNow per hour for the experiment (around 1-1.5 hours)! The only requirement is that you should be a English native speaker. If you are willing to join the experiment, just click **[here](https://docs.google.com/forms/d/e/1FAIpQLSejhnd17AzvUR8jK-P-lDZAtLihYj_vWbGpeZez52gz2Ew2GQ/viewform?usp=sf_link)** to sign up! Any further questions, please contact aiqa012@yahoo.com.
