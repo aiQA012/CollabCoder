@@ -36,7 +36,7 @@ For experiment group, AIcoder will be displayed to you during the experiment due
 
 ## 3) Study Instruction
 
-### ExB:
+<!-- ### ExB:
 **Creating the Codebook**
 
 1. Mark up the first two interview transcripts individually. (~10-20 mins).
@@ -57,9 +57,12 @@ For experiment group, AIcoder will be displayed to you during the experiment due
    - Did AI help you deal with the conflicts between each other?
    - Do you use the AIcoder frequently? Why?
    - Do you feel that AIcoder helps you improve your coding efficiency and collaboration efficiency?
-   - Do you feel it becomes faster after codebook forming, how?
+   - Do you feel it becomes faster after codebook forming, how? -->
 
 ### ExC:
+
+**Creating the Codebook**
+
 1. The first coder marks up the first two interview transcripts individually (with ai model training), another coder can take a rest. (~10-15 mins).
 2. The second coder marks up the two interview transcripts individually (with the same ai model training), another coder can take a rest. (~10-15 mins).
 3. Discuss the codes you have found, and create one codebook (combining all the codes/subcodes from two materials) like the following (~30-40 mins):
