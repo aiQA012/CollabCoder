@@ -83,7 +83,7 @@ For experiment group, AIcoder will be displayed to you during the experiment due
    - Do you feel that AIcoder helps you improve your coding efficiency and collaboration efficiency?
    - Do you feel it becomes faster after codebook forming, how?
 
-### ExD:
+<!-- ### ExD:
 
 **Creating the Codebook**
 
@@ -105,6 +105,6 @@ For experiment group, AIcoder will be displayed to you during the experiment due
    - Do you use the AIcoder frequently? Why?
    - Do you feel that AIcoder helps you improve your coding efficiency and collaboration efficiency?
    - Do you feel it becomes faster after codebook forming, how?
-
+ -->
 # 4. Join now!
 You will get SGD$10 via payNow per hour for the experiment (around 1-1.5 hours)! The only requirement is that you should be a English native speaker. If you are willing to join the experiment, just click **[here](https://docs.google.com/forms/d/e/1FAIpQLSejhnd17AzvUR8jK-P-lDZAtLihYj_vWbGpeZez52gz2Ew2GQ/viewform?usp=sf_link)** to sign up! Any further questions, please contact aiqa012@yahoo.com.
