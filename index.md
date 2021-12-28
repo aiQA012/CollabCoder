@@ -83,5 +83,28 @@ For experiment group, AIcoder will be displayed to you during the experiment due
    - Do you feel that AIcoder helps you improve your coding efficiency and collaboration efficiency?
    - Do you feel it becomes faster after codebook forming, how?
 
+### ExD:
+
+**Creating the Codebook**
+
+1. Two coders mark up the first two interview transcripts individually (with individual ai model training). (~10-15 mins).
+2. Discuss the codes you have found, and create one codebook (combining all the codes/subcodes from two materials) like the following (~30-40 mins):
+![image](https://user-images.githubusercontent.com/95164001/144158823-2217a1a1-e058-4f62-8d1d-ba5bcafd947e.png)
+
+**Coding using the Codebook**
+
+3. Mark up the remaining one material individually (~10 minutes).
+4. Fill up the [survey](https://docs.google.com/forms/d/e/1FAIpQLSe3nieWo47E6mrpkOF5X4HjWdoCXfYuois365srhVPcJJXQ-w/viewform?usp=sf_link) (~5 minutes).
+5. Answer the following questions (~5 minutes):
+   - During the labeling process, what are the difficulties when you label individually? 
+   - What are the difficulties when collaborating with each other?
+   - How do you think AIcoder deal with these difficulties between each other?
+   - How do you feel when there is a code in the code list that you didn't add?
+   - How do you feel like the confidence level?
+   - Did AI help you deal with the conflicts between each other?
+   - Do you use the AIcoder frequently? Why?
+   - Do you feel that AIcoder helps you improve your coding efficiency and collaboration efficiency?
+   - Do you feel it becomes faster after codebook forming, how?
+
 # 4. Join now!
 You will get SGD$10 via payNow per hour for the experiment (around 1-1.5 hours)! The only requirement is that you should be a English native speaker. If you are willing to join the experiment, just click **[here](https://docs.google.com/forms/d/e/1FAIpQLSejhnd17AzvUR8jK-P-lDZAtLihYj_vWbGpeZez52gz2Ew2GQ/viewform?usp=sf_link)** to sign up! Any further questions, please contact aiqa012@yahoo.com.
