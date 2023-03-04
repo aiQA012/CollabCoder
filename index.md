@@ -37,7 +37,7 @@ For each platform, you will experience the following steps:
 1. Mark up the qualitative data individually. (~10 mins).
 2. Discuss the codes you have found, and create a codebook (~10 mins)
 3. Fill up the survey (~3 minutes).
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSebibWnAVOJrei6aBWuITGzK0hY9yzxP48eJuy5Vw56RyWiBQ/viewform?embedded=true" width="640" height="379" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSebibWnAVOJrei6aBWuITGzK0hY9yzxP48eJuy5Vw56RyWiBQ/viewform?embedded=true" width="500" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 4. Answer the following questions (~5 minutes):
 - Can Diffcoder support qualitative coders conduct a collaborative qualitative analysis process?
 - How does Diffcoder compare to currently available tools like Google docs and MaxQDA?
@@ -45,4 +45,6 @@ For each platform, you will experience the following steps:
 - How can the design of Diffcoder be improved?
 
 ## 4. Join now!
-You will get SGD$30 via payNow for this study (around 2 hours)! The only requirement is that you should be a English native speaker. If you are willing to join the experiment, just click <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeT5jnikvtxdXmF9h6Wkxgkrw_BFuR9At6LPMCKydfBeB7xHQ/viewform?embedded=true" width="640" height="1320" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> to sign up! Any further questions, please contact aiqa012@yahoo.com.
+You will get SGD$30 via payNow for this study (around 2 hours)! The only requirement is that you should be a English native speaker. If you are willing to join the experiment, just click the following to sign up! Any further questions, please contact aiqa012@yahoo.com.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSebibWnAVOJrei6aBWuITGzK0hY9yzxP48eJuy5Vw56RyWiBQ/viewform?embedded=true" width="400" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
