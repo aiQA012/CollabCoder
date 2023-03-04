@@ -8,7 +8,7 @@ Our project aims to improve the efficiency of the coding process in qualitative 
 # 2. A 30-minute Introduction to Qualitative Analysis
 
 Please watch the following video to get an understanding of how to do qualitative analysis.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XOYhkUC21wQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="460" height="215" src="https://www.youtube.com/embed/XOYhkUC21wQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 -------------
