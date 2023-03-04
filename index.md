@@ -45,6 +45,5 @@ For each platform, you will experience the following steps:
 - How can the design of Diffcoder be improved?
 
 ## 4. Join now!
-You will get SGD$30 via payNow for this study (around 2 hours)! The only requirement is that you should be a English native speaker. If you are willing to join the experiment, just click the following to sign up! Any further questions, please contact aiqa012@yahoo.com.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSebibWnAVOJrei6aBWuITGzK0hY9yzxP48eJuy5Vw56RyWiBQ/viewform?embedded=true" width="400" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+You will get SGD$30 via payNow for this study (around 2 hours)! The only requirement is that you should be a English native speaker. If you are willing to join the experiment, just click the following to sign up! Any further questions, please leave a comment in the following survey.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeT5jnikvtxdXmF9h6Wkxgkrw_BFuR9At6LPMCKydfBeB7xHQ/viewform?embedded=true" width="500" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
