@@ -5,7 +5,7 @@ Qualitative analysis (QA) is a widely used approach in human-computer interactio
 Our project aims to address this gap by developing an AI-based collaboration tool that enhances the efficiency of the coding process. By leveraging AI to assist in the collaboration process between different coders, our tool aims to streamline the coding process, saving valuable time for QA researchers. Ultimately, this tool will enable researchers to more effectively analyze qualitative data, leading to new insights and discoveries in the field.
 
 
-# 2. A Five-minute Introduction to Qualitative Analysis
+# 2. A 30-minute Introduction to Qualitative Analysis
 
 Please watch the following video to get an understanding of how to do qualitative analysis.
 
