@@ -1,8 +1,8 @@
 # 1. Welcome to Join Our Diffcoder Experiment!
 
-Qualitative analysis (QA) is a widely used approach in human-computer interaction and social computing research. One of the critical processes in QA is coding, which involves identifying patterns and insights in qualitative data. However, this process heavily relies on human labor, making it time-consuming and inefficient. In recent years, researchers have proposed using artificial intelligence (AI) to enhance the efficiency of this process. Nonetheless, these efforts have not focused on improving the collaboration aspect of the coding process.
+Qualitative analysis (QA) is a widely used approach in human-computer interaction and social computing research. One of the critical processes in QA is coding, which involves identifying patterns and insights in qualitative data. However, this process heavily relies on human labor, making it time-consuming and inefficient. 
 
-Our project aims to address this gap by developing an AI-based collaboration tool that enhances the efficiency of the coding process. By leveraging AI to assist in the collaboration process between different coders, our tool aims to streamline the coding process, saving valuable time for QA researchers. Ultimately, this tool will enable researchers to more effectively analyze qualitative data, leading to new insights and discoveries in the field.
+Our project aims to improve the efficiency of the coding process in qualitative analysis by providing an AI-based collaboration tool for coders. This tool streamlines the coding process and saves time for QA researchers, enabling them to better analyze qualitative data and make new discoveries.
 
 
 # 2. A 30-minute Introduction to Qualitative Analysis
