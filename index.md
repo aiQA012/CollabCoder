@@ -1,12 +1,16 @@
-# 1. Welcome to Join Our AIQA Experiment!
+# 1. Welcome to Join Our Diffcoder Experiment!
 
-Qualitative analysis (QA) is widely used in human computer interaction and social computing research areas. Coding is one of the important processes in QA to form and find patterns and insights in the qualitative data. It heavily depends on human labor, which is very low-efficient and time-consuming. In the past few years, researchers have proposed to use AI (Artificial Intelligence) to improve the efficiency of this process. However, the collaboration part in coding process hasn’t been a focus by them. Our project aims at improving the efficiency of coding process by providing AI based collaboration tool. By using AI to assist the collaboration process between different coders in coding process, the efficiency of coding process could be improved. This may save much time for QA researchers.
+Qualitative analysis (QA) is a widely used approach in human-computer interaction and social computing research. One of the critical processes in QA is coding, which involves identifying patterns and insights in qualitative data. However, this process heavily relies on human labor, making it time-consuming and inefficient. In recent years, researchers have proposed using artificial intelligence (AI) to enhance the efficiency of this process. Nonetheless, these efforts have not focused on improving the collaboration aspect of the coding process.
+
+Our project aims to address this gap by developing an AI-based collaboration tool that enhances the efficiency of the coding process. By leveraging AI to assist in the collaboration process between different coders, our tool aims to streamline the coding process, saving valuable time for QA researchers. Ultimately, this tool will enable researchers to more effectively analyze qualitative data, leading to new insights and discoveries in the field.
+
 
 # 2. A Five-minute Introduction to Qualitative Analysis
 
-Please watch the following video to get an understanding of how to do qualitative analysis (sometimes it is also called qualitative coding, but they are not exactly the same).
+Please watch the following video to get an understanding of how to do qualitative analysis.
 
-<div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/651816055?h=704550dd3e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Tutorial"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:62.5% 0 0 0;position:relative;"><iframe width="560" height="315" src="https://www.youtube.com/embed/XOYhkUC21wQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 
 -------------
 
