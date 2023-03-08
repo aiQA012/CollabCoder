@@ -13,7 +13,7 @@ Please watch the following video to get an understanding of how to do qualitativ
 -------------
 
 ## 3. Join now!
-You will get SGD$30 via payNow for this study (around 2 hours)! If you are willing to join the experiment, please fill up the following survey to sign up! Any further questions, please leave a comment in the following survey.
+You will get SGD$30 via payNow for this study (around 1.5-2 hours)! If you are willing to join the experiment, please fill up the following survey to sign up! Any further questions, please leave a comment in the following survey.
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeT5jnikvtxdXmF9h6Wkxgkrw_BFuR9At6LPMCKydfBeB7xHQ/viewform?embedded=true" width="500" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 -------------
