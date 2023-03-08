@@ -12,7 +12,12 @@ Please watch the following video to get an understanding of how to do qualitativ
 
 -------------
 
-## 3. Experiment Process
+## 3. Join now!
+You will get SGD$30 via payNow for this study (around 2 hours)! If you are willing to join the experiment, please fill up the following survey to sign up! Any further questions, please leave a comment in the following survey.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeT5jnikvtxdXmF9h6Wkxgkrw_BFuR9At6LPMCKydfBeB7xHQ/viewform?embedded=true" width="500" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
+## 4. Experiment Process
 
 ### 1) Task Introduction:
 
@@ -37,13 +42,8 @@ For each platform, you will experience the following steps:
 1. Mark up the qualitative data individually. (~10 mins).
 2. Discuss the codes you have found, and create a codebook (~10 mins)
 3. Fill up the survey (~3 minutes).
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSebibWnAVOJrei6aBWuITGzK0hY9yzxP48eJuy5Vw56RyWiBQ/viewform?embedded=true" width="500" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 4. Answer the following questions (~5 minutes):
 - Can Diffcoder support qualitative coders conduct a collaborative qualitative analysis process?
 - How does Diffcoder compare to currently available tools like Google docs and MaxQDA?
 - Does Diffcoder provide value over just doing collaborative qualitative analysis?
 - How can the design of Diffcoder be improved?
-
-## 4. Join now!
-You will get SGD$30 via payNow for this study (around 2 hours)! The only requirement is that you should be a English native speaker. If you are willing to join the experiment, just click the following to sign up! Any further questions, please leave a comment in the following survey.
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeT5jnikvtxdXmF9h6Wkxgkrw_BFuR9At6LPMCKydfBeB7xHQ/viewform?embedded=true" width="500" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
