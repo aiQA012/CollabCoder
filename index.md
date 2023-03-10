@@ -41,8 +41,8 @@ Your task is to code the reviews to obtain meaningful insights. Here's an exampl
 ### 3) Study Instruction:
 
 For each platform, you will experience the following steps:
-1. Mark up the qualitative data individually. (~10 mins).
-2. Discuss the codes you have found, and create a codebook (~10 mins)
+1. Mark up the qualitative data individually. You can select any number of keywords but can only add one final code. (~10 mins).
+2. Discuss the codes you have found, and make final code decisions for each code (~10 mins).
 3. Fill up the survey (~3 minutes).
 4. Answer the following questions (~5 minutes):
 - Can Diffcoder support qualitative coders conduct a collaborative qualitative analysis process?
