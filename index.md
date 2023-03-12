@@ -17,7 +17,7 @@ You will get SGD$30 via payNow for this study (around 1.5-2 hours)! If you are w
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeT5jnikvtxdXmF9h6Wkxgkrw_BFuR9At6LPMCKydfBeB7xHQ/viewform?embedded=true" width="500" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 -------------
-
+<!-- 
 
 ## 4. Experiment Process
 
@@ -48,4 +48,4 @@ For each platform, you will experience the following steps:
 - Can Diffcoder support qualitative coders conduct a collaborative qualitative analysis process?
 - How does Diffcoder compare to currently available tools like Google docs and MaxQDA?
 - Does Diffcoder provide value over just doing collaborative qualitative analysis?
-- How can the design of Diffcoder be improved?
+- How can the design of Diffcoder be improved? -->
